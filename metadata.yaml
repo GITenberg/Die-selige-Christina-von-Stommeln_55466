@@ -1,11 +1,16 @@
 _repo: Die-selige-Christina-von-Stommeln_55466
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55466-h/images/cover.jpg
 creator:
   author:
     agent_name: Steffens, Arnold
     gutenberg_agent_id: '48352'
     url: http://www.gutenberg.org/2009/agents/48352
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55466#Die-selige-Christina-von-Stommeln
 gutenberg_issued: '2017-08-31'
 gutenberg_type: Text
 identifiers:
